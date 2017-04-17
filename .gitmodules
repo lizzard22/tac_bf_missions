@@ -1,0 +1,508 @@
+[submodule "TacBF"]
+	path = TacBF
+	url = git@github.com:TacBF/TacBF.git
+	branch = master
+[submodule "tb_rhs.kunduz"]
+	path = tb_rhs.kunduz
+	url = git@github.com:TacBF/tb_rhs.kunduz.git
+	branch = master
+[submodule "tb_rhs_aad_radical_exercises.tanoa"]
+	path = tb_rhs_aad_radical_exercises.tanoa
+	url = git@github.com:TacBF/tb_rhs_aad_radical_exercises.tanoa.git
+	branch = master
+[submodule "tb_rhs_aftermath.desert_island"]
+	path = tb_rhs_aftermath.desert_island
+	url = git@github.com:TacBF/tb_rhs_aftermath.desert_island.git
+	branch = master
+[submodule "tb_rhs_airport.chernarus"]
+	path = tb_rhs_airport.chernarus
+	url = git@github.com:TacBF/tb_rhs_airport.chernarus.git
+	branch = master
+[submodule "tb_rhs_air_station_mike.stratis"]
+	path = tb_rhs_air_station_mike.stratis
+	url = git@github.com:TacBF/tb_rhs_air_station_mike.stratis.git
+	branch = master
+[submodule "tb_rhs_alamo.woodland_acr"]
+	path = tb_rhs_alamo.woodland_acr
+	url = git@github.com:TacBF/tb_rhs_alamo.woodland_acr.git
+	branch = master
+[submodule "tb_rhs_arms_war.chernarus"]
+	path = tb_rhs_arms_war.chernarus
+	url = git@github.com:TacBF/tb_rhs_arms_war.chernarus.git
+	branch = master
+[submodule "tb_rhs_ascent.mountains_acr"]
+	path = tb_rhs_ascent.mountains_acr
+	url = git@github.com:TacBF/tb_rhs_ascent.mountains_acr.git
+	branch = master
+[submodule "tb_rhs_attack_time.chernarus"]
+	path = tb_rhs_attack_time.chernarus
+	url = git@github.com:TacBF/tb_rhs_attack_time.chernarus.git
+	branch = master
+[submodule "tb_rhs_beachhead.utes"]
+	path = tb_rhs_beachhead.utes
+	url = git@github.com:TacBF/tb_rhs_beachhead.utes.git
+	branch = master
+[submodule "tb_rhs_bears_love.takistan"]
+	path = tb_rhs_bears_love.takistan
+	url = git@github.com:TacBF/tb_rhs_bears_love.takistan.git
+	branch = master
+[submodule "tb_rhs_black_forest.chernarus"]
+	path = tb_rhs_black_forest.chernarus
+	url = git@github.com:TacBF/tb_rhs_black_forest.chernarus.git
+	branch = master
+[submodule "tb_rhs_black_gold.shapur_baf"]
+	path = tb_rhs_black_gold.shapur_baf
+	url = git@github.com:TacBF/tb_rhs_black_gold.shapur_baf.git
+	branch = master
+[submodule "tb_rhs_black_mountain.chernarus"]
+	path = tb_rhs_black_mountain.chernarus
+	url = git@github.com:TacBF/tb_rhs_black_mountain.chernarus.git
+	branch = master
+[submodule "tb_rhs_breakout.altis"]
+	path = tb_rhs_breakout.altis
+	url = git@github.com:TacBF/tb_rhs_breakout.altis.git
+	branch = master
+[submodule "tb_rhs_canceled_flight.altis"]
+	path = tb_rhs_canceled_flight.altis
+	url = git@github.com:TacBF/tb_rhs_canceled_flight.altis.git
+	branch = master
+[submodule "tb_rhs_chahar_dara.kunduz"]
+	path = tb_rhs_chahar_dara.kunduz
+	url = git@github.com:TacBF/tb_rhs_chahar_dara.kunduz.git
+	branch = master
+[submodule "tb_rhs_chaman_valley.takistan"]
+	path = tb_rhs_chaman_valley.takistan
+	url = git@github.com:TacBF/tb_rhs_chaman_valley.takistan.git
+	branch = master
+[submodule "tb_rhs_chaos.takistan"]
+	path = tb_rhs_chaos.takistan
+	url = git@github.com:TacBF/tb_rhs_chaos.takistan.git
+	branch = master
+[submodule "tb_rhs_chernogorsk.chernarus"]
+	path = tb_rhs_chernogorsk.chernarus
+	url = git@github.com:TacBF/tb_rhs_chernogorsk.chernarus.git
+	branch = master
+[submodule "tb_rhs_concrete_jungle.saralite"]
+	path = tb_rhs_concrete_jungle.saralite
+	url = git@github.com:TacBF/tb_rhs_concrete_jungle.saralite.git
+	branch = master
+[submodule "tb_rhs_convoy.takistan"]
+	path = tb_rhs_convoy.takistan
+	url = git@github.com:TacBF/tb_rhs_convoy.takistan.git
+	branch = master
+[submodule "tb_rhs_cornered.altis"]
+	path = tb_rhs_cornered.altis
+	url = git@github.com:TacBF/tb_rhs_cornered.altis.git
+	branch = master
+[submodule "tb_rhs_crime.altis"]
+	path = tb_rhs_crime.altis
+	url = git@github.com:TacBF/tb_rhs_crime.altis.git
+	branch = master
+[submodule "tb_rhs_crossing.altis"]
+	path = tb_rhs_crossing.altis
+	url = git@github.com:TacBF/tb_rhs_crossing.altis.git
+	branch = master
+[submodule "tb_rhs_crusade.takistan"]
+	path = tb_rhs_crusade.takistan
+	url = git@github.com:TacBF/tb_rhs_crusade.takistan.git
+	branch = master
+[submodule "tb_rhs_deerburg.chernarus"]
+	path = tb_rhs_deerburg.chernarus
+	url = git@github.com:TacBF/tb_rhs_deerburg.chernarus.git
+	branch = master
+[submodule "tb_rhs_deerhunt.chernarus"]
+	path = tb_rhs_deerhunt.chernarus
+	url = git@github.com:TacBF/tb_rhs_deerhunt.chernarus.git
+	branch = master
+[submodule "tb_rhs_descent.mountains_acr"]
+	path = tb_rhs_descent.mountains_acr
+	url = git@github.com:TacBF/tb_rhs_descent.mountains_acr.git
+	branch = master
+[submodule "tb_rhs_desolation.provinggrounds_pmc"]
+	path = tb_rhs_desolation.provinggrounds_pmc
+	url = git@github.com:TacBF/tb_rhs_desolation.provinggrounds_pmc.git
+	branch = master
+[submodule "tb_rhs_devils_castle.chernarus"]
+	path = tb_rhs_devils_castle.chernarus
+	url = git@github.com:TacBF/tb_rhs_devils_castle.chernarus.git
+	branch = master
+[submodule "tb_rhs_dolores.saralite"]
+	path = tb_rhs_dolores.saralite
+	url = git@github.com:TacBF/tb_rhs_dolores.saralite.git
+	branch = master
+[submodule "tb_rhs_dragon_ridge.takistan"]
+	path = tb_rhs_dragon_ridge.takistan
+	url = git@github.com:TacBF/tb_rhs_dragon_ridge.takistan.git
+	branch = master
+[submodule "tb_rhs_dubrovka.chernarus"]
+	path = tb_rhs_dubrovka.chernarus
+	url = git@github.com:TacBF/tb_rhs_dubrovka.chernarus.git
+	branch = master
+[submodule "tb_rhs_edge.mountains_acr"]
+	path = tb_rhs_edge.mountains_acr
+	url = git@github.com:TacBF/tb_rhs_edge.mountains_acr.git
+	branch = master
+[submodule "tb_rhs_extraction.altis"]
+	path = tb_rhs_extraction.altis
+	url = git@github.com:TacBF/tb_rhs_extraction.altis.git
+	branch = master
+[submodule "tb_rhs_ferret_force.woodland_acr"]
+	path = tb_rhs_ferret_force.woodland_acr
+	url = git@github.com:TacBF/tb_rhs_ferret_force.woodland_acr.git
+	branch = master
+[submodule "tb_rhs_feruz_abad.takistan"]
+	path = tb_rhs_feruz_abad.takistan
+	url = git@github.com:TacBF/tb_rhs_feruz_abad.takistan.git
+	branch = master
+[submodule "tb_rhs_fields_of_thunder_x.chernarus"]
+	path = tb_rhs_fields_of_thunder_x.chernarus
+	url = git@github.com:TacBF/tb_rhs_fields_of_thunder_x.chernarus.git
+	branch = master
+[submodule "tb_rhs_fools_road.zargabad"]
+	path = tb_rhs_fools_road.zargabad
+	url = git@github.com:TacBF/tb_rhs_fools_road.zargabad.git
+	branch = master
+[submodule "tb_rhs_forest_run.stratis"]
+	path = tb_rhs_forest_run.stratis
+	url = git@github.com:TacBF/tb_rhs_forest_run.stratis.git
+	branch = master
+[submodule "tb_rhs_frigid_castle.chernarus"]
+	path = tb_rhs_frigid_castle.chernarus
+	url = git@github.com:TacBF/tb_rhs_frigid_castle.chernarus.git
+	branch = master
+[submodule "tb_rhs_front_line.takistan"]
+	path = tb_rhs_front_line.takistan
+	url = git@github.com:TacBF/tb_rhs_front_line.takistan.git
+	branch = master
+[submodule "tb_rhs_goremotel.desert_e"]
+	path = tb_rhs_goremotel.desert_e
+	url = git@github.com:TacBF/tb_rhs_goremotel.desert_e.git
+	branch = master
+[submodule "tb_rhs_gorka_in_gorka.chernarus_summer"]
+	path = tb_rhs_gorka_in_gorka.chernarus_summer
+	url = git@github.com:TacBF/tb_rhs_gorka_in_gorka.chernarus_summer.git
+	branch = master
+[submodule "tb_rhs_green_shadow.altis"]
+	path = tb_rhs_green_shadow.altis
+	url = git@github.com:TacBF/tb_rhs_green_shadow.altis.git
+	branch = master
+[submodule "tb_rhs_green_valley.takistan"]
+	path = tb_rhs_green_valley.takistan
+	url = git@github.com:TacBF/tb_rhs_green_valley.takistan.git
+	branch = master
+[submodule "tb_rhs_hard_target.saralite"]
+	path = tb_rhs_hard_target.saralite
+	url = git@github.com:TacBF/tb_rhs_hard_target.saralite.git
+	branch = master
+[submodule "tb_rhs_hedgerow.altis"]
+	path = tb_rhs_hedgerow.altis
+	url = git@github.com:TacBF/tb_rhs_hedgerow.altis.git
+	branch = master
+[submodule "tb_rhs_height_218.woodland_acr"]
+	path = tb_rhs_height_218.woodland_acr
+	url = git@github.com:TacBF/tb_rhs_height_218.woodland_acr.git
+	branch = master
+[submodule "tb_rhs_hells_highway.provinggrounds_pmc"]
+	path = tb_rhs_hells_highway.provinggrounds_pmc
+	url = git@github.com:TacBF/tb_rhs_hells_highway.provinggrounds_pmc.git
+	branch = master
+[submodule "tb_rhs_high_fields.chernarus"]
+	path = tb_rhs_high_fields.chernarus
+	url = git@github.com:TacBF/tb_rhs_high_fields.chernarus.git
+	branch = master
+[submodule "tb_rhs_hills_have_eyes.altis"]
+	path = tb_rhs_hills_have_eyes.altis
+	url = git@github.com:TacBF/tb_rhs_hills_have_eyes.altis.git
+	branch = master
+[submodule "tb_rhs_hill_266.altis"]
+	path = tb_rhs_hill_266.altis
+	url = git@github.com:TacBF/tb_rhs_hill_266.altis.git
+	branch = master
+[submodule "tb_rhs_hotel_attack.altis"]
+	path = tb_rhs_hotel_attack.altis
+	url = git@github.com:TacBF/tb_rhs_hotel_attack.altis.git
+	branch = master
+[submodule "tb_rhs_inferno.altis"]
+	path = tb_rhs_inferno.altis
+	url = git@github.com:TacBF/tb_rhs_inferno.altis.git
+	branch = master
+[submodule "tb_rhs_ion_storm.shapur_baf"]
+	path = tb_rhs_ion_storm.shapur_baf
+	url = git@github.com:TacBF/tb_rhs_ion_storm.shapur_baf.git
+	branch = master
+[submodule "tb_rhs_kalo_outskirts.altis"]
+	path = tb_rhs_kalo_outskirts.altis
+	url = git@github.com:TacBF/tb_rhs_kalo_outskirts.altis.git
+	branch = master
+[submodule "tb_rhs_karachi.takistan"]
+	path = tb_rhs_karachi.takistan
+	url = git@github.com:TacBF/tb_rhs_karachi.takistan.git
+	branch = master
+[submodule "tb_rhs_kavala_outskirts.altis"]
+	path = tb_rhs_kavala_outskirts.altis
+	url = git@github.com:TacBF/tb_rhs_kavala_outskirts.altis.git
+	branch = master
+[submodule "tb_rhs_lakka_assault.altis"]
+	path = tb_rhs_lakka_assault.altis
+	url = git@github.com:TacBF/tb_rhs_lakka_assault.altis.git
+	branch = master
+[submodule "tb_rhs_la_biblioteca.altis"]
+	path = tb_rhs_la_biblioteca.altis
+	url = git@github.com:TacBF/tb_rhs_la_biblioteca.altis.git
+	branch = master
+[submodule "tb_rhs_market_garden.porto"]
+	path = tb_rhs_market_garden.porto
+	url = git@github.com:TacBF/tb_rhs_market_garden.porto.git
+	branch = master
+[submodule "tb_rhs_ministry.desert_e"]
+	path = tb_rhs_ministry.desert_e
+	url = git@github.com:TacBF/tb_rhs_ministry.desert_e.git
+	branch = master
+[submodule "tb_rhs_mountain_king.altis"]
+	path = tb_rhs_mountain_king.altis
+	url = git@github.com:TacBF/tb_rhs_mountain_king.altis.git
+	branch = master
+[submodule "tb_rhs_neochori.altis"]
+	path = tb_rhs_neochori.altis
+	url = git@github.com:TacBF/tb_rhs_neochori.altis.git
+	branch = master
+[submodule "tb_rhs_neri_bay.altis"]
+	path = tb_rhs_neri_bay.altis
+	url = git@github.com:TacBF/tb_rhs_neri_bay.altis.git
+	branch = master
+[submodule "tb_rhs_north_struggle.chernarus"]
+	path = tb_rhs_north_struggle.chernarus
+	url = git@github.com:TacBF/tb_rhs_north_struggle.chernarus.git
+	branch = master
+[submodule "tb_rhs_on_your_shield.takistan"]
+	path = tb_rhs_on_your_shield.takistan
+	url = git@github.com:TacBF/tb_rhs_on_your_shield.takistan.git
+	branch = master
+[submodule "tb_rhs_op.chernarus"]
+	path = tb_rhs_op.chernarus
+	url = git@github.com:TacBF/tb_rhs_op.chernarus.git
+	branch = master
+[submodule "tb_rhs_open_ground.altis"]
+	path = tb_rhs_open_ground.altis
+	url = git@github.com:TacBF/tb_rhs_open_ground.altis.git
+	branch = master
+[submodule "tb_rhs_op_blackout.takistan"]
+	path = tb_rhs_op_blackout.takistan
+	url = git@github.com:TacBF/tb_rhs_op_blackout.takistan.git
+	branch = master
+[submodule "tb_rhs_op_chromite.chernarus"]
+	path = tb_rhs_op_chromite.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_chromite.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_coop.kunduz"]
+	path = tb_rhs_op_coop.kunduz
+	url = git@github.com:TacBF/tb_rhs_op_coop.kunduz.git
+	branch = master
+[submodule "tb_rhs_op_cyclone.takistan"]
+	path = tb_rhs_op_cyclone.takistan
+	url = git@github.com:TacBF/tb_rhs_op_cyclone.takistan.git
+	branch = master
+[submodule "tb_rhs_op_diamond.takistan"]
+	path = tb_rhs_op_diamond.takistan
+	url = git@github.com:TacBF/tb_rhs_op_diamond.takistan.git
+	branch = master
+[submodule "tb_rhs_op_fox.zargabad"]
+	path = tb_rhs_op_fox.zargabad
+	url = git@github.com:TacBF/tb_rhs_op_fox.zargabad.git
+	branch = master
+[submodule "tb_rhs_op_gold.kunduz"]
+	path = tb_rhs_op_gold.kunduz
+	url = git@github.com:TacBF/tb_rhs_op_gold.kunduz.git
+	branch = master
+[submodule "tb_rhs_op_grey_storm.chernarus"]
+	path = tb_rhs_op_grey_storm.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_grey_storm.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_spearhead.chernarus"]
+	path = tb_rhs_op_spearhead.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_spearhead.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_steel_rain.chernarus"]
+	path = tb_rhs_op_steel_rain.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_steel_rain.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_titoli.kunduz"]
+	path = tb_rhs_op_titoli.kunduz
+	url = git@github.com:TacBF/tb_rhs_op_titoli.kunduz.git
+	branch = master
+[submodule "tb_rhs_op_trident.chernarus"]
+	path = tb_rhs_op_trident.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_trident.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_valiant_strike.takistan"]
+	path = tb_rhs_op_valiant_strike.takistan
+	url = git@github.com:TacBF/tb_rhs_op_valiant_strike.takistan.git
+	branch = master
+[submodule "tb_rhs_op_viper.chernarus"]
+	path = tb_rhs_op_viper.chernarus
+	url = git@github.com:TacBF/tb_rhs_op_viper.chernarus.git
+	branch = master
+[submodule "tb_rhs_op_zorro.kunduz"]
+	path = tb_rhs_op_zorro.kunduz
+	url = git@github.com:TacBF/tb_rhs_op_zorro.kunduz.git
+	branch = master
+[submodule "tb_rhs_ostrov_snow_withoutapex.cain"]
+	path = tb_rhs_ostrov_snow_withoutapex.cain
+	url = git@github.com:TacBF/tb_rhs_ostrov_snow_withoutapex.cain.git
+	branch = master
+[submodule "tb_rhs_porto_city.porto"]
+	path = tb_rhs_porto_city.porto
+	url = git@github.com:TacBF/tb_rhs_porto_city.porto.git
+	branch = master
+[submodule "tb_rhs_powder_keg.zargabad"]
+	path = tb_rhs_powder_keg.zargabad
+	url = git@github.com:TacBF/tb_rhs_powder_keg.zargabad.git
+	branch = master
+[submodule "tb_rhs_priwet.chernarus"]
+	path = tb_rhs_priwet.chernarus
+	url = git@github.com:TacBF/tb_rhs_priwet.chernarus.git
+	branch = master
+[submodule "tb_rhs_purgatorium.altis"]
+	path = tb_rhs_purgatorium.altis
+	url = git@github.com:TacBF/tb_rhs_purgatorium.altis.git
+	branch = master
+[submodule "tb_rhs_pyrgos_outskirts.altis"]
+	path = tb_rhs_pyrgos_outskirts.altis
+	url = git@github.com:TacBF/tb_rhs_pyrgos_outskirts.altis.git
+	branch = master
+[submodule "tb_rhs_queens_gambit.porto"]
+	path = tb_rhs_queens_gambit.porto
+	url = git@github.com:TacBF/tb_rhs_queens_gambit.porto.git
+	branch = master
+[submodule "tb_rhs_quiet-loud_assault.altis"]
+	path = tb_rhs_quiet-loud_assault.altis
+	url = git@github.com:TacBF/tb_rhs_quiet-loud_assault.altis.git
+	branch = master
+[submodule "tb_rhs_redoctoberfactory.provinggrounds_pmc"]
+	path = tb_rhs_redoctoberfactory.provinggrounds_pmc
+	url = git@github.com:TacBF/tb_rhs_redoctoberfactory.provinggrounds_pmc.git
+	branch = master
+[submodule "tb_rhs_red_dawn.altis"]
+	path = tb_rhs_red_dawn.altis
+	url = git@github.com:TacBF/tb_rhs_red_dawn.altis.git
+	branch = master
+[submodule "tb_rhs_remove_kebab.chernarus"]
+	path = tb_rhs_remove_kebab.chernarus
+	url = git@github.com:TacBF/tb_rhs_remove_kebab.chernarus.git
+	branch = master
+[submodule "tb_rhs_savingday.chernarus"]
+	path = tb_rhs_savingday.chernarus
+	url = git@github.com:TacBF/tb_rhs_savingday.chernarus.git
+	branch = master
+[submodule "tb_rhs_scorched.provinggrounds_pmc"]
+	path = tb_rhs_scorched.provinggrounds_pmc
+	url = git@github.com:TacBF/tb_rhs_scorched.provinggrounds_pmc.git
+	branch = master
+[submodule "tb_rhs_semper_tam.stratis"]
+	path = tb_rhs_semper_tam.stratis
+	url = git@github.com:TacBF/tb_rhs_semper_tam.stratis.git
+	branch = master
+[submodule "tb_rhs_siege.zargabad"]
+	path = tb_rhs_siege.zargabad
+	url = git@github.com:TacBF/tb_rhs_siege.zargabad.git
+	branch = master
+[submodule "tb_rhs_sirpoundalot.chernarus"]
+	path = tb_rhs_sirpoundalot.chernarus
+	url = git@github.com:TacBF/tb_rhs_sirpoundalot.chernarus.git
+	branch = master
+[submodule "tb_rhs_skalisty_island.chernarus_summer"]
+	path = tb_rhs_skalisty_island.chernarus_summer
+	url = git@github.com:TacBF/tb_rhs_skalisty_island.chernarus_summer.git
+	branch = master
+[submodule "tb_rhs_slippery_bridge.woodland_acr"]
+	path = tb_rhs_slippery_bridge.woodland_acr
+	url = git@github.com:TacBF/tb_rhs_slippery_bridge.woodland_acr.git
+	branch = master
+[submodule "tb_rhs_snake_hunter.kunduz"]
+	path = tb_rhs_snake_hunter.kunduz
+	url = git@github.com:TacBF/tb_rhs_snake_hunter.kunduz.git
+	branch = master
+[submodule "tb_rhs_solni.chernarus"]
+	path = tb_rhs_solni.chernarus
+	url = git@github.com:TacBF/tb_rhs_solni.chernarus.git
+	branch = master
+[submodule "tb_rhs_spartan_forefathers.stratis"]
+	path = tb_rhs_spartan_forefathers.stratis
+	url = git@github.com:TacBF/tb_rhs_spartan_forefathers.stratis.git
+	branch = master
+[submodule "tb_rhs_steal_beasts.chernarus"]
+	path = tb_rhs_steal_beasts.chernarus
+	url = git@github.com:TacBF/tb_rhs_steal_beasts.chernarus.git
+	branch = master
+[submodule "tb_rhs_stratis_resistance.stratis"]
+	path = tb_rhs_stratis_resistance.stratis
+	url = git@github.com:TacBF/tb_rhs_stratis_resistance.stratis.git
+	branch = master
+[submodule "tb_rhs_summer_storm.chernarus_summer"]
+	path = tb_rhs_summer_storm.chernarus_summer
+	url = git@github.com:TacBF/tb_rhs_summer_storm.chernarus_summer.git
+	branch = master
+[submodule "tb_rhs_tacticalker.desert_island"]
+	path = tb_rhs_tacticalker.desert_island
+	url = git@github.com:TacBF/tb_rhs_tacticalker.desert_island.git
+	branch = master
+[submodule "tb_rhs_tanoa_jungle_fever.tanoa"]
+	path = tb_rhs_tanoa_jungle_fever.tanoa
+	url = git@github.com:TacBF/tb_rhs_tanoa_jungle_fever.tanoa.git
+	branch = master
+[submodule "tb_rhs_the_open_field_stage_1_aas.chernarus"]
+	path = tb_rhs_the_open_field_stage_1_aas.chernarus
+	url = git@github.com:TacBF/tb_rhs_the_open_field_stage_1_aas.chernarus.git
+	branch = master
+[submodule "tb_rhs_the_open_field_stage_2blue_aad.chernarus"]
+	path = tb_rhs_the_open_field_stage_2blue_aad.chernarus
+	url = git@github.com:TacBF/tb_rhs_the_open_field_stage_2blue_aad.chernarus.git
+	branch = master
+[submodule "tb_rhs_the_open_field_stage_2red_aad.chernarus"]
+	path = tb_rhs_the_open_field_stage_2red_aad.chernarus
+	url = git@github.com:TacBF/tb_rhs_the_open_field_stage_2red_aad.chernarus.git
+	branch = master
+[submodule "tb_rhs_three_piglets.altis"]
+	path = tb_rhs_three_piglets.altis
+	url = git@github.com:TacBF/tb_rhs_three_piglets.altis.git
+	branch = master
+[submodule "tb_rhs_training.stratis"]
+	path = tb_rhs_training.stratis
+	url = git@github.com:TacBF/tb_rhs_training.stratis.git
+	branch = master
+[submodule "tb_rhs_war_of_machines.chernarus"]
+	path = tb_rhs_war_of_machines.chernarus
+	url = git@github.com:TacBF/tb_rhs_war_of_machines.chernarus.git
+	branch = master
+[submodule "tb_rhs_wastelands.provinggrounds_pmc"]
+	path = tb_rhs_wastelands.provinggrounds_pmc
+	url = git@github.com:TacBF/tb_rhs_wastelands.provinggrounds_pmc.git
+	branch = master
+[submodule "tb_rhs_witches_cauldron.takistan"]
+	path = tb_rhs_witches_cauldron.takistan
+	url = git@github.com:TacBF/tb_rhs_witches_cauldron.takistan.git
+	branch = master
+[submodule "tb_rhs_witching_hour.kunduz"]
+	path = tb_rhs_witching_hour.kunduz
+	url = git@github.com:TacBF/tb_rhs_witching_hour.kunduz.git
+	branch = master
+[submodule "tb_rhs_yhelie.kunduz"]
+	path = tb_rhs_yhelie.kunduz
+	url = git@github.com:TacBF/tb_rhs_yhelie.kunduz.git
+	branch = master
+[submodule "tb_rhs_zaros_firefight.altis"]
+	path = tb_rhs_zaros_firefight.altis
+	url = git@github.com:TacBF/tb_rhs_zaros_firefight.altis.git
+	branch = master
+[submodule "tb_rhs_zavarak.takistan"]
+	path = tb_rhs_zavarak.takistan
+	url = git@github.com:TacBF/tb_rhs_zavarak.takistan.git
+	branch = master
+[submodule "tb_rhs_zavod_311.chernarus"]
+	path = tb_rhs_zavod_311.chernarus
+	url = git@github.com:TacBF/tb_rhs_zavod_311.chernarus.git
+	branch = master
+[submodule "tb_rhs_zoned_zeleno.chernarus"]
+	path = tb_rhs_zoned_zeleno.chernarus
+	url = git@github.com:TacBF/tb_rhs_zoned_zeleno.chernarus.git
+	branch = master
